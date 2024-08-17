@@ -1,0 +1,12 @@
+.about{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.about-section{
+  width: 80%;
+}
+.about p{
+  font-size: 18px;
+}

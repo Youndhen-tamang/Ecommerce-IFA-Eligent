@@ -1,0 +1,19 @@
+.features-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.feature{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  align-items: center;
+}
+strong{
+  font-size: 20px;
+}
+
+li{
+  font-size: 18px;
+}
